@@ -1,1 +1,1 @@
-just some coding game to practice
+just some coding games to practice
